@@ -1,7 +1,7 @@
 beautifulsoup4==4.6.0
 browsermob-proxy==0.8.0
 bs4==0.0.1
-certifi==2018.4.16
+certifi==2023.7.22
 cfscrape==1.9.5
 chardet==3.0.4
 idna==2.7
