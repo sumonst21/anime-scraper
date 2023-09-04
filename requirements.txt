@@ -5,7 +5,7 @@ certifi==2018.4.16
 cfscrape==1.9.5
 chardet==3.0.4
 idna==2.7
-lxml==4.2.5
+lxml==4.9.1
 requests==2.19.1
 selenium==3.141.0
 urllib3==1.23
